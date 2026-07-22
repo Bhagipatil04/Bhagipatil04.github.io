@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](images/portfolio-preview.png)
+![Portfolio Preview](pictures/scrrenshorts/portfolio-preview.png)
 
 ---
 
